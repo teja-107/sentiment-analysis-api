@@ -90,7 +90,6 @@ docker run -p 8000:8000 sentiment-api
 ```
 
 ## Results
-*(fill this in after training)*
 
 | Metric    | Score |
 |-----------|-------|
